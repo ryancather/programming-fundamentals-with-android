@@ -6,5 +6,5 @@
 * [Configure Change Calculator](configure_change_calculator.md)
 * [Change Calculator](change_calculator.md)
 * [New Utility - Dice Roll Simulator](new_utility_-_dice_roll_simulator.md)
-* Dice Roll Simulator
+* [Dice Roll Simulator](dice_roll_simulator.md)
 
